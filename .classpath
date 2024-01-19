@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Exception"/>
+	<classpathentry kind="src" path="CExpATM"/>
+	<classpathentry kind="src" path="CExpOffice"/>
+	<classpathentry kind="src" path="T-Join"/>
+	<classpathentry kind="src" path="TGroup"/>
+	<classpathentry kind="src" path="TPerformingMultipleTasks"/>
+	<classpathentry kind="src" path="TRuntimeClass"/>
+	<classpathentry kind="src" path="ArrayList"/>
+	<classpathentry kind="src" path="LinkedList"/>
+	<classpathentry kind="src" path="HashSet"/>
+	<classpathentry kind="src" path="Treeset"/>
+	<classpathentry kind="src" path="Queue"/>
+	<classpathentry kind="src" path="Synchronization"/>
+	<classpathentry kind="src" path="Map"/>
+	<classpathentry kind="src" path="CollectionsClass"/>
+	<classpathentry kind="src" path="Enums"/>
+	<classpathentry kind="src" path="Regex"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
